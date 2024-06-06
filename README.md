@@ -15,3 +15,9 @@ Este é um repositório no GitHub que apresenta um projeto TO DO LIST pronto no 
 ## Função do Projeto
 A função do projeto é o usuário se organizar através dos filtros e recuros que o site tem a oferecer.
 
+>## Tecnologias utilizadas 🛠️
+>* ``HTML5``
+>* ``JS``
+>* ``Github`` 
+>* ``Git``
+>* ``Vscode``
