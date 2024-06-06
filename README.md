@@ -10,6 +10,8 @@ Projeto TO-DO-LIST 📋
 
 
 ## Descrição do Projeto
-Este é um repositório no GitHub que apresenta um projeto com o código pronto no pelo criador de conteúdo [CREATOR-TO-VIDEO]( https://www.youtube.com/watch?v=HSssE1PRQcA)
+Este é um repositório no GitHub que apresenta um projeto TO DO LIST pronto no pelo criador de conteúdo [CREATOR-TO-VIDEO]( https://www.youtube.com/watch?v=HSssE1PRQcA)
 
 ## Função do Projeto
+A função do projeto é o usuário se organizar através dos filtros e recuros que o site tem a oferecer.
+
