@@ -21,3 +21,12 @@ A função do projeto é o usuário se organizar através dos filtros e recuros 
 >* ``Github`` 
 >* ``Git``
 >* ``Vscode``
+
+<h1 align = "center">
+
+Informações pessoais
+<h1>
+
+* [Linkedin](https://www.linkedin.com/in/eduardo-costa-3369042bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+* [GITHUB](https://github.com/eduardoocosta)
+* [Instagram](https://www.instagram.com/duardooosta)
