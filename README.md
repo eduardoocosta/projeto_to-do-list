@@ -9,4 +9,7 @@ Projeto TO-DO-LIST 📋
 >![](https://img.shields.io/badge/license-%20Escola%20Marista%20Ir.%20Ac%C3%A1cio-black) ![](https://img.shields.io/badge/version-0.3-white) 
 
 
+## Descrição do Projeto
+Este é um repositório no GitHub que apresenta um projeto com o código pronto no pelo criador de conteúdo [CREATOR-TO-VIDEO]( https://www.youtube.com/watch?v=HSssE1PRQcA)
+
 ## Função do Projeto
